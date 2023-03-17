@@ -59,7 +59,7 @@ function DiceRoll() {
       </div>
 
       <button className="btn-bas" onClick={handleClick}>
-        SALLA
+        ROLL
       </button>
     </>
   );
